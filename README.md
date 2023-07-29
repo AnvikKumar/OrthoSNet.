@@ -11,19 +11,3 @@
 ## Certificate from IIT Delhi and IEEE conference ICCCNT 2023
 ![Certificate](https://github.com/AnvikKumar/OrthoSNet./blob/main/Assets/Research_Certificate.jpeg)
 
-## Authors:
-
-# Dr. Rajesh T M
-Associate Professor,
-Dept of Computer Science and Engineering,
-Dayananda Sagar University,
-Bengaluru, Karnataka,
-India.
-rajesh-cse@dsu.edu.in
-
-# Anvik Kumar Achar,
-Dept of Computer Science and Engineering,
-Dayananda Sagar University,
-Bengaluru, Karnataka,
-India.
-
