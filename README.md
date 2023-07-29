@@ -9,7 +9,7 @@ Research work accepeted by IIT Delhi on its IEEE conference ICCCNT 2023.
 Index Terms—Fourier transform, Discrete Orthonormal Stockwell transfrom, Tuberculosis Detection, X-ray Lung Dataset, Image classification.
 
 ## Certificate from IIT Delhi and IEEE conference ICCCNT 2023
-![Certificate]()
+![Certificate](https://github.com/AnvikKumar/OrthoSNet./blob/main/Assets/Research_Certificate.jpeg)
 
 Authors:
 
