@@ -1,5 +1,5 @@
 # OrthoSNet: A framework for Identifying and Verifying Tuberculosis in Chest Radio graph images using Discrete Orthonormal Stockwell transform.
-Research work accepeted by IIT Delhi on its IEEE conference ICCCNT 2023.
+## Research work accepted by IIT Delhi on its IEEE conference ICCCNT 2023.
 
 ## Authors : Dr. Rajesh T M and Anvik Kumar Achar
 
@@ -11,7 +11,7 @@ Research work accepeted by IIT Delhi on its IEEE conference ICCCNT 2023.
 ## Certificate from IIT Delhi and IEEE conference ICCCNT 2023
 ![Certificate](https://github.com/AnvikKumar/OrthoSNet./blob/main/Assets/Research_Certificate.jpeg)
 
-##cAuthors:
+## Authors:
 
 # Dr. Rajesh T M
 > Associate Professor,
