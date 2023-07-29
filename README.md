@@ -1,5 +1,5 @@
 # OrthoSNet: A framework for Identifying and Verifying Tuberculosis in Chest Radio graph images using Discrete Orthonormal Stockwell transform.
-## Research work accepted by IIT Delhi on its IEEE conference ICCCNT 2023.
+## Research work accepted by IIT Delhi, IEEE conference ICCCNT 2023.
 
 ## Authors : Dr. Rajesh T M and Anvik Kumar Achar
 
