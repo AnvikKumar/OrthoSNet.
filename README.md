@@ -24,4 +24,4 @@ Bengaluru, Karnataka,
 India.
 anvik.kumar6311@gmail.com
 
-Credits : To all our Mentors and our institutin Dayananda Sagar University, Bengaluru, Karnataka, India.
+Credits : To all our Mentors and our institution Dayananda Sagar University, Bengaluru, Karnataka, India.
