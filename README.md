@@ -14,7 +14,7 @@
 ## Authors:
 
 # Dr. Rajesh T M
-> """Associate Professor,
+"""Associate Professor,
 Dept of Computer Science and Engineering,
 Dayananda Sagar University,
 Bengaluru, Karnataka,
@@ -22,7 +22,7 @@ India.
 rajesh-cse@dsu.edu.in"""
 
 # Anvik Kumar Achar,
-> """Dept of Computer Science and Engineering,
+"""Dept of Computer Science and Engineering,
 Dayananda Sagar University,
 Bengaluru, Karnataka,
 India.
